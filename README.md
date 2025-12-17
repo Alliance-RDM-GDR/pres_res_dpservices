@@ -54,7 +54,7 @@ This section contains selected presentations about digital preservation services
 
 Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
 
-- [Appraisal for Research Data](https://docs.google.com/presentation/d/1h0doA5Uj5qOocKck-ZJGgGkNp77Z8ac0/edit?usp=drive_link&ouid=110747224461653622155&rtpof=true&sd=true) | Digital Research Alliance of Canada Coffee Chat - November 19, 2025 
+- [Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) | Digital Research Alliance of Canada Coffee Chat - November 19, 2025 
 - [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
 - [What really happens in FRDR?](https://drive.google.com/file/d/16nky28LH6yl7IqZWdPTZTBMUXN5Bwe-G/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025 | with Natalie Williams, Curation Services Lead
 - [Getting Creative: Exploring ways to communicate digital preservation to others](https://drive.google.com/file/d/1s-vB1FUZnn3V48H_xvUF-Ev2w1t84zpc/view?usp=sharing) | [DPC Americas Members Forums](https://www.dpconline.org/events/eventdetail/465/-/dpc-members-forum-and-networking-event-americas) - April 25, 2025
