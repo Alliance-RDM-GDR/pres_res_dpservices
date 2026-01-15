@@ -10,15 +10,16 @@ Digital Preservation Services is responsible for developing strategies and enact
 * Maaike Bos, Digital Preservation Analyst
 * Amanda Tomé, Digital Preservation Coordinator
 
-## High Level Workflows
-- [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1_Vwltsv077pgNfkm4mJzvX5781eMuRCt/view?usp=drive_link) (PDF 216 KB)
-- [File Format Signature Development Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=drive_link) (PDF 72 KB)
-
 ## Collaboration with Other Services
 Digital Preservation Services works closely with the Curation Services Team and the FRDR Product Team to preserve dataset deposited in FRDR. Below is a diagram that outlines the various responsibilities of each service as well as were responsibilities overlap.
 
-<img width="50%" src="https://drive.google.com/uc?id=1lgeFe0lvdjapeC8UQCYXkI7kwAI4xg7r" alt="Venn diagram outlining the interaction between curation services, preservation services and FRDR"/>
+<p align="center">
+  <img width="500" height="426" alt="Venn diagram outlining the interaction between curation services, preservation services and FRDR" src="https://github.com/user-attachments/assets/9e63739e-695b-4f92-b6d3-2ceef39693f4" />
+</p>
 
+## High Level Workflows
+- [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1_Vwltsv077pgNfkm4mJzvX5781eMuRCt/view?usp=drive_link) (PDF 216 KB)
+- [File Format Signature Development Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=drive_link) (PDF 72 KB)
 
 ---
 # Services de préservation numérique
@@ -28,6 +29,13 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 * Maaike Bos, Analyste en préservation numérique
 * Amanda Tomé, Coordonnatrice en préservation numérique
 
+## Collaboration avec d'autres services 
+Les services de préservation numérique travaillent en étroite collaboration avec l'équipe des services de curation et l'équipe des produits DFDR afin de préserver les jeux de données déposés dans le DFDR. Le diagramme ci-dessous présente les différentes responsabilités de chaque service ainsi que les domaines dans lesquels ces responsabilités se recoupent.
+
+<p align="center">
+  <img width="500" height="426" alt="Diagramme de Venn décrivant l’interaction entre les services de curation, les services de préservation et le DFDR" src="https://github.com/user-attachments/assets/64d38534-b486-4eb6-aae0-de6e92f97b1b" />
+</p>
+
 ## Flux de travail de haut niveau
 - [Flux de travail pour la préservation numérique](https://drive.google.com/file/d/15PjhC46sWAnOF02uTJ1yR4izU5uwt3CM/view?usp=drive_link) (PDF 238 KB)
 - [Processus de création de signatures de format de fichier](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=drive_link) (PDF 74 KB)
@@ -35,7 +43,8 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 ---
 ## License / Licence
 
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
+    This work is licensed under a Creative Commons Attribution 4.0 International License:  
+    Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
     https://creativecommons.org/licenses/by/4.0/
 
 ---
@@ -52,4 +61,6 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
     Email/courriel: amanda.tome@alliancecan.ca 
 
 ---
-<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="FRDR logo" width="50%" />
+<p align="center">
+<img width="400" height="120" alt="frdr_logo" src="https://github.com/user-attachments/assets/daba313d-3b50-48c9-80b7-4b595c715339" />
+</p>
