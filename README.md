@@ -96,4 +96,4 @@ Cette section contient une sélection de présentations sur le service de prése
     Email/courriel: amanda.tome@alliancecan.ca 
 
 ---
-<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="Sample" width="50%" hspace="250" />
+<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="Sample" width="50%" />
