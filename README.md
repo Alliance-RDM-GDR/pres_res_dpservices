@@ -14,7 +14,9 @@ Visit the file format page (under development) for information about the service
 * Amanda Tomé, Digital Preservation Coordinator
 
 ## Resources for Researchers
-- Forthcoming guides/checklist
+- [Digital Preservation Basics](https://drive.google.com/file/d/1U_WoOCOKXZRTdPPPUQZf9spx4ykTomsV/view?usp=drive_link) (PDF 276 KB)
+- [Digital Preservation for Research Data](https://drive.google.com/file/d/18e2IRPHpgY4BCeFcaMpmRqlo-oDc5jC1/view?usp=drive_link) (PDF 258 KB)
+- [Digital Preservation Tips for Researchers ](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view?usp=sharing) (PDF 697 KB)
 
 ### File Format Guidance for Researchers
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are encouraged as the probability of continued access and reuse is higher. However, not all research can use open formats.
