@@ -1,9 +1,8 @@
-<img src="https://drive.google.com/uc?id=1DxYtfMmAREzSgp2CCVXDF6pRep2LuINk" alt="Sample" width="50%" />
+<img width="390" height="50" alt="Alliance logo" src="https://github.com/user-attachments/assets/1a4f5c76-7c49-4efa-9e8e-1316be846b47" />
 
 ---
 # Digital Preservation Services 
-
-[Version française ci-dessous](https://github.com/Alliance-RDM-GDR/DigitalPreservationServices/tree/main?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique)
+git [Version française ci-dessous](https://github.com/Alliance-RDM-GDR/DigitalPreservationServices/tree/main?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique)
 
 Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
@@ -51,4 +50,4 @@ Consultez la page sur le format de fichier (en cours de développement) pour obt
     Email/courriel: amanda.tome@alliancecan.ca 
 
 ---
-<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="Sample" width="50%" />
+<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="FRDR logo" width="50%" />
