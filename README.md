@@ -8,6 +8,10 @@ Digital Preservation Services is responsible for developing strategies and enact
 
 Visit the file format page (under development) for information about the service's file format work and strategy.
 
+## Digital Preservation Services Team
+* Maaike Bos, Digital Preservation Analyst
+* Amanda Tomé, Digital Preservation Coordinator
+
 ## Resources for Researchers
 - Forthcoming guides/checklist
 <!-- - [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view)  -->
@@ -23,7 +27,8 @@ The table below provides general guidelines for researchers outlining the differ
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
 
 ## High Level Workflows
-- [Processing Workflow](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
+- [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1_Vwltsv077pgNfkm4mJzvX5781eMuRCt/view?usp=drive_link) (PDF 216 KB)
+- [File Format Signature Development Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=drive_link) (PDF 72 KB)
 
 ---
 # Services de préservation numérique
@@ -31,9 +36,12 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 
 Consultez la page sur le format de fichier (en cours de développement) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
 
+## Équipe des services de préservation numérique
+* Maaike Bos, Analyste en préservation numérique
+* Amanda Tomé, Coordonnatrice en préservation numérique
+
 ## Ressources pour les chercheuses et les chercheurs
 - Guides/liste de contrôle - en cours de développement
-<!-- - [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link) -->
 
 ### Conseils sur les formats de fichiers pour les chercheuses et les chercheurs
 Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directrices générales sur les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont encouragés car la probabilité d'un accès continu et d'une réutilisation est plus élevée. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts. 
@@ -46,7 +54,8 @@ Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directric
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
 
 ## Flux de travail de haut niveau
-- [Processus de traitement](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
+- [Flux de travail pour la préservation numérique](https://drive.google.com/file/d/15PjhC46sWAnOF02uTJ1yR4izU5uwt3CM/view?usp=drive_link) (PDF 238 KB)
+- [Processus de création de signatures de format de fichier](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=drive_link) (PDF 74 KB)
   
 ---
 # Selected Presentations / Présentation sélectionnées
@@ -54,28 +63,28 @@ This section contains selected presentations about digital preservation services
 
 Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
 
-- [Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) | Digital Research Alliance of Canada Coffee Chat - November 19, 2025 
-- [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
-- [What really happens in FRDR?](https://drive.google.com/file/d/16nky28LH6yl7IqZWdPTZTBMUXN5Bwe-G/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025 | with Natalie Williams, Curation Services Lead
-- [Getting Creative: Exploring ways to communicate digital preservation to others](https://drive.google.com/file/d/1s-vB1FUZnn3V48H_xvUF-Ev2w1t84zpc/view?usp=sharing) | [DPC Americas Members Forums](https://www.dpconline.org/events/eventdetail/465/-/dpc-members-forum-and-networking-event-americas) - April 25, 2025
-- [Décrire un format de fichier](https://drive.google.com/file/d/14qc3ys93W9aC8s8cfzqD4CakL4ZWPmTK/view?usp=drive_link) | Lunch et préservation - 8 janvier 2025
-- [Fun with File Formats in FRDR](https://drive.google.com/file/d/1XlD9s58tmgqJHAhjLz9zd8ae5lQqUTD5/view?usp=sharing) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/) - November 21, 2024
-- [Preservation Services](https://drive.google.com/file/d/19kkTOZuOhB9LuCtUnzxlw4KgzJfumLhG/view?usp=drive_link) / [Services de préservation](https://drive.google.com/file/d/1zwmgtzRq_QPi79J-ydjDlYwMhZPXIgwR/view?usp=drive_link) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/) - November 21, 2024
-- [File Format Identification](https://drive.google.com/file/d/1erJT344W_39mkRKE6kw_zENqaynI7P26/view?usp=drive_link) | Digital Research Alliance of Canada Coffee Chat - October 09, 2024
-- [Preservation Services Overview](https://drive.google.com/file/d/1wkrr1CHbThCkCOY4ODrF2jhXOlWvP3M1/view?usp=drive_link) | Digital Research Alliance of Canada Coffee Chat - September 18, 2024 
-- [A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=sharing) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) - September 04, 2024 | with Erin Clary, Curation Coordinator
+- [Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) (PDF 501 KB) | Digital Research Alliance of Canada Coffee Chat - November 19, 2025 
+- [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) (PDF 2.3 MB) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
+- [What really happens in FRDR?](https://drive.google.com/file/d/16nky28LH6yl7IqZWdPTZTBMUXN5Bwe-G/view?usp=sharing) (PDF 4.1 MB) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025 | with Natalie Williams, Curation Services Lead
+- [Getting Creative: Exploring ways to communicate digital preservation to others](https://drive.google.com/file/d/1s-vB1FUZnn3V48H_xvUF-Ev2w1t84zpc/view?usp=sharing) (PDF 2.5 MB) | [DPC Americas Members Forums](https://www.dpconline.org/events/eventdetail/465/-/dpc-members-forum-and-networking-event-americas) - April 25, 2025
+- [Décrire un format de fichier](https://drive.google.com/file/d/14qc3ys93W9aC8s8cfzqD4CakL4ZWPmTK/view?usp=drive_link) (PDF 2.9 MB) | Lunch et préservation - 8 janvier 2025
+- [Fun with File Formats in FRDR](https://drive.google.com/file/d/1XlD9s58tmgqJHAhjLz9zd8ae5lQqUTD5/view?usp=sharing) (PDF 666 KB) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/) - November 21, 2024
+- [Preservation Services](https://drive.google.com/file/d/19kkTOZuOhB9LuCtUnzxlw4KgzJfumLhG/view?usp=drive_link) (PDF 229 KB) / [Services de préservation](https://drive.google.com/file/d/1zwmgtzRq_QPi79J-ydjDlYwMhZPXIgwR/view?usp=drive_link) (PDF 237 KB) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/) - November 21, 2024
+- [File Format Identification](https://drive.google.com/file/d/1erJT344W_39mkRKE6kw_zENqaynI7P26/view?usp=drive_link) (PDF 1.5 MB) | Digital Research Alliance of Canada Coffee Chat - October 09, 2024
+- [Preservation Services Overview](https://drive.google.com/file/d/1wkrr1CHbThCkCOY4ODrF2jhXOlWvP3M1/view) (PDF 926 KB) | Digital Research Alliance of Canada Coffee Chat - September 18, 2024 
+- [A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=drive_link) (PDF 1.2 MB) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) - September 04, 2024 | with Erin Clary, Curation Coordinator
 
 ---
 ## License / Licence
 
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  
+    This work is licensed under a Creative Commons Attribution 4.0 International License:  Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
     https://creativecommons.org/licenses/by/4.0/
 
 ---
 ## Citation
 
-    Please cite these materials as:  
-    Digital Preservation Services. (2025). Digital Research Alliance of Canada.  
+    Please cite these materials as: / Veuillez citer ces documents comme suit : 
+    Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
     https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 
 
 ---
