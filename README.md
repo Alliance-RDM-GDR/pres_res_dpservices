@@ -1,5 +1,6 @@
-<img width="390" height="50" alt="Alliance_logo_English-first" src="https://github.com/user-attachments/assets/1a4f5c76-7c49-4efa-9e8e-1316be846b47" />
+<img src="https://drive.google.com/uc?id=1DxYtfMmAREzSgp2CCVXDF6pRep2LuINk" alt="Sample" width="50%" />
 
+---
 # Digital Preservation Services 
 
 [Version française ci-dessous](https://github.com/Alliance-RDM-GDR/DigitalPreservationServices/tree/main?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique)
@@ -14,7 +15,6 @@ Visit the file format page (under development) for information about the service
 
 ## Resources for Researchers
 - Forthcoming guides/checklist
-<!-- - [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view)  -->
 
 ### File Format Guidance for Researchers
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are encouraged as the probability of continued access and reuse is higher. However, not all research can use open formats.
@@ -92,3 +92,6 @@ Cette section contient une sélection de présentations sur le service de prése
 
     Digital Preservation Services / Services de préservation numérique 
     Email/courriel: amanda.tome@alliancecan.ca 
+
+---
+<img src="https://drive.google.com/uc?id=1MiqL018pqGhY4hz2WWUNxJRCpshmbcSA" alt="Sample" width="50%" hspace="250" />
