@@ -11,7 +11,7 @@ The table below provides general guidelines for researchers outlining the differ
 | No restrictions on use. Format specification freely available | Owned and controlled by a company | Proprietary, but the specification may be published (in whole or part) |
 | Can be correctly read by a range of different software programs. Fully functional in at least one free software | Typically  requires proprietary software to read files reliably | Freeware options to visualize or analyze files, but may not have full functionality |
 | Often an open standard, maintained by non-commercial expert body | Format description confidential, and subject to change at any time | Format description subject to change at any time, controlled by company |
-| .csv, 
+| .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
 
 # Ressources pour les chercheuses et les chercheurs
 - Guides/liste de contrôle - en cours de développement
